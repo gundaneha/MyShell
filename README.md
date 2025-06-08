@@ -32,11 +32,8 @@ gcc myshell.c -o myshell
 ▶️ Run the shell:
 
 ## 🧪 Example Commands
-mysh> ls
-mysh> cd ..
-mysh> pwd
-mysh> echo Hello Shell!
-mysh> exit
+mysh> ls mysh> cd .. mysh> pwd mysh> echo Hello Shell! mysh> exit
+
 
 
 
