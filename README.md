@@ -17,7 +17,7 @@ It mimics the basic functionality of a real shell like `bash` or `zsh`, allowing
 
 ## 📂 File Structure
 
-.
+
 ├── myshell.c      # Source code of the shell  
 ├── README.txt     # You're here! 📝
 
@@ -32,7 +32,12 @@ gcc myshell.c -o myshell
 ▶️ Run the shell:
 
 ## 🧪 Example Commands
-mysh> ls mysh> cd .. mysh> pwd mysh> echo Hello Shell! mysh> exit
+<br>mysh> ls<br>
+<br>mysh> cd .. <br>
+<br>mysh> pwd<br>
+<br>mysh> echo Hello Shell!<br>
+<br>mysh> exit<br>
+
 
 
 
